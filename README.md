@@ -1,2 +1,3 @@
 # Unity-VideoPlayManager
-UnityEngine.Video VideoPlayer(v5.6b later)
+UnityEngine.VideoのVideoPlayerを使ったプレイヤー(仮  
+git使用予定地
